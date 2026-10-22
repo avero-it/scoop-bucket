@@ -1,19 +1,19 @@
 {
-    "version": "0.12.1",
+    "version": "0.12.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/avero-it/sie/releases/download/v0.12.1/sie_0.12.1_windows_amd64.zip",
+            "url": "https://github.com/avero-it/sie/releases/download/v0.12.2/sie_0.12.2_windows_amd64.zip",
             "bin": [
                 "sie.exe"
             ],
-            "hash": "ebe17a15c3e465146170409c845baf87f06d0cc500b9a0ec3abdc63bf173cc74"
+            "hash": "2cc1ff81a8f5ba54f64c92c09593a5998a6426d886bc3e1e122c232b740ac191"
         },
         "arm64": {
-            "url": "https://github.com/avero-it/sie/releases/download/v0.12.1/sie_0.12.1_windows_arm64.zip",
+            "url": "https://github.com/avero-it/sie/releases/download/v0.12.2/sie_0.12.2_windows_arm64.zip",
             "bin": [
                 "sie.exe"
             ],
-            "hash": "ddc694704fad7ebfcd728b929587dc2d52b0d940ab6a5a245202ad97dd5818d4"
+            "hash": "cce98dd7380e74f7ed5e35f8f95e221c85ae3f18e442824305bfa919043a759f"
         }
     },
     "homepage": "https://github.com/avero-it/sie",
